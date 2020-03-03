@@ -1,0 +1,19 @@
+{
+	"name": "extron-fox",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol",
+		"Matrix"
+	],
+	"manufacturer": "Extron",
+	"product": "FOX Matrix",
+	"shortname": "FOX",
+	"description": "FOX Matrix plugin for Companion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jenton Hollingum, <jenton@jhlx.co.uk>, Nigel Brown <eventreplay@outlook.com>",
+	"license": "MIT"
+}
